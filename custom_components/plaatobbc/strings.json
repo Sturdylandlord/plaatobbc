@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to Your API",
+        "data": {
+          "base_url": "https://api.plaato.cloud",
+          "api_key": "e06a8ea62a667aed03f08af2c26c026474d5dd02bf5087b4d0b9ba94297bba58"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to the API."
+    }
+  }
+}

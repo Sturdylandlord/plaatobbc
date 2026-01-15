@@ -1,0 +1,21 @@
+{
+  "config": {
+    "error": {
+      "cannot_connect": "Cannot connect (DNS/routing/refused).",
+      "timeout": "Request timed out.",
+      "ssl_error": "SSL certificate verification failed.",
+      "unknown": "Unexpected error.",
+      "http_400": "Bad request (missing required parameters).",
+      "http_401": "Unauthorized (wrong API key / auth scheme).",
+      "http_403": "Forbidden (no permission / wrong auth header).",
+      "http_404": "Not found (wrong base URL or endpoint).",
+      "http_405": "Method not allowed.",
+      "http_409": "Conflict.",
+      "http_422": "Unprocessable entity.",
+      "http_429": "Rate limited.",
+      "http_500": "Server error from API.",
+      "http_502": "Bad gateway.",
+      "http_503": "Service unavailable."
+    }
+  }
+}
